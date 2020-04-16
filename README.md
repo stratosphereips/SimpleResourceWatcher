@@ -8,7 +8,7 @@ The Simple Resource Watcher usese the following packages:
 - curl
 - ps
 - free
-- sensors
+- sensors (Debian package name 'lm-sensors')
 
 ## Usage
 
