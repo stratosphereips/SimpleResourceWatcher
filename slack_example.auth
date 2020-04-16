@@ -1,0 +1,3 @@
+slack_webhook=
+slack_channel=alerts
+slack_thumb_url=https://a.slack-edge.com/production-standard-emoji-assets/10.2/apple-large/1f916.png
